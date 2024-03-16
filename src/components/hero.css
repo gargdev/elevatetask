@@ -1,0 +1,13 @@
+.hero{
+    width: 100%;
+    /* float: left; */
+    background-image: url(../assets/banner-bg.png);
+    height: 57vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.item{
+    border-color: #f5f1f1f1 !important;
+    box-shadow: 0 0 0 2rem rgba(246, 244, 244, 0.989);
+}
